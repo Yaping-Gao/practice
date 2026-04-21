@@ -1,17 +1,13 @@
-CLASS zcl_001 DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class ZCL_001 definition
+  public
+  create private .
 
-  PUBLIC SECTION.
-methods m1.
-  PROTECTED SECTION.
-  PRIVATE SECTION.
+public section.
+protected section.
+private section.
 ENDCLASS.
 
 
 
-CLASS zcl_001 IMPLEMENTATION.
-method m1.
-endmethod.
+CLASS ZCL_001 IMPLEMENTATION.
 ENDCLASS.

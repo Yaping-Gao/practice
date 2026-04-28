@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Trave App"
+  },
+  "ui5AppDetails": {
+    "appId": "zrap100gao"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_B9095B6014EA7B6CE869865E9AE14AB8DC9C4DD2_TM",
+    "semanticObject": "ZRAP100_GAO",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_B9095B6014EA7B6CE869865E9AE14AB8DC9C4DD2_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Trave App"
+      }
+    }
+  ]
+}
